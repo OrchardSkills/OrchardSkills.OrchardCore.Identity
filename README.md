@@ -53,6 +53,14 @@ Log in page with reCAPTCHA enabled. What does the Remember me check dox do?
 
 
 
+![itentity-032](https://user-images.githubusercontent.com/59172485/90959534-ed6fbf00-e458-11ea-8321-27af42535210.png)
+
+
+
+Proposed a new way to customize the registration and login screens so support TypeScript routines to give immediate feedback of what is needed to the user when they are entering in a new password. They can switch between registration and login easily.
+
+
+
 
 ![itentity-026](https://user-images.githubusercontent.com/59172485/90955745-3580e880-e43d-11ea-90fa-1eb5f0acc3c1.png)
 
