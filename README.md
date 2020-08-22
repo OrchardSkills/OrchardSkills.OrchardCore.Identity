@@ -49,14 +49,14 @@ New registered user account page.
 
 ![itentity-002](https://user-images.githubusercontent.com/59172485/90955720-30239e00-e43d-11ea-9a27-fb83ba07e407.png)
 
-Log in page with reCAPTCHA enabled.
+Log in page with reCAPTCHA enabled. What does the Remember me check dox do?
 
 
 
 
 ![itentity-026](https://user-images.githubusercontent.com/59172485/90955745-3580e880-e43d-11ea-90fa-1eb5f0acc3c1.png)
 
-Proposed new log in page with social logins OpenID Connect.
+Proposed new log in page with social logins OpenID Connect. What does the Remember me check dox do?
 
 
 
@@ -81,7 +81,7 @@ Change password Page.
 
 ![itentity-007](https://user-images.githubusercontent.com/59172485/90955725-3154cb00-e43d-11ea-956a-82004da3cc40.png)
 
-Attempt to log in after password has been changed. Could not login with new password.
+Attempt to log in after password has been changed. Could not login with new password. What does the Remember me check dox do?
 
 
 
@@ -100,13 +100,13 @@ Email changed page. How do we fix page layout Thank you for changing your email.
 
 ![itentity-015](https://user-images.githubusercontent.com/59172485/90955733-331e8e80-e43d-11ea-877a-065ff0dd07d1.png)
 
-After email changed. Attempt to log in fails. Invalid login attempt.
+After email changed. Attempt to log in fails. Invalid login attempt. What does the Remember me check dox do?
 
 
 
 ![itentity-016](https://user-images.githubusercontent.com/59172485/90955734-33b72500-e43d-11ea-9896-2a80de1402ee.png)
 
-Forgot your password issue when hovering over it with mouse. It fades away.
+Forgot your password issue when hovering over it with mouse. It fades away. What does the Remember me check dox do?
 
 
 
