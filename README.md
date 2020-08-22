@@ -144,3 +144,71 @@ Reset password page. Clicked on Please "click here" to change your password link
 
 Reset Password confirmation page. How do we fix page layout?
 
+![itentity-027](https://user-images.githubusercontent.com/59172485/90958438-cfeb2700-e451-11ea-88b4-5f455b1f2f8e.png)
+
+Email Settings Page
+
+
+![itentity-028](https://user-images.githubusercontent.com/59172485/90958439-d083bd80-e451-11ea-96a9-2eb8dafc2690.png)
+
+Login Page Settings How to Use a script to set user roles based on external provider claims.
+
+
+
+![itentity-029](https://user-images.githubusercontent.com/59172485/90958441-d083bd80-e451-11ea-878c-b305f5450860.png)
+
+reCAPTCHA Page Settings
+
+
+
+![itentity-030](https://user-images.githubusercontent.com/59172485/90958442-d11c5400-e451-11ea-94f6-cbaf6cc56262.png)
+
+Registration Settings Page Question: How to Use a script to generate userName based on external provider claims.
+
+
+
+![itentity-031](https://user-images.githubusercontent.com/59172485/90958443-d11c5400-e451-11ea-9645-6e8c084ebc02.png)
+
+Reset Password Settings Page
+
+
+
+Recipe settings User
+
+```
+    {
+      "name": "Settings",
+      "ChangeEmailSettings": {
+        "AllowChangeEmail": true
+      },
+      "LoginSettings": {
+        "UseSiteTheme": true,
+        "UseExternalProviderIfOnlyOneDefined": false,
+        "DisableLocalLogin": false,
+        "UseScriptToSyncRoles": false,
+        "SyncRolesScript": null
+      },
+      "RegistrationSettings": {
+        "UsersCanRegister": 1,
+        "UsersMustValidateEmail": true,
+        "UseSiteTheme": true,
+        "NoPasswordForExternalUsers": false,
+        "NoUsernameForExternalUsers": false,
+        "NoEmailForExternalUsers": false,
+        "UseScriptToGenerateUsername": false,
+        "GenerateUsernameScript": null
+      },
+      "ResetPasswordSettings": {
+        "AllowResetPassword": true,
+        "UseSiteTheme": true
+      },
+      "ReCaptchaSettings": {
+        "SiteKey": "6LcXMb0ZAAAAADh2OfV7wG88aPXSfZO4JgLBRA7W",
+        "SecretKey": "6LcXMb0ZAAAAAJXyGfKHEAoxCnOf1bqe1g6RXgEZ",
+        "ReCaptchaScriptUri": "https://www.google.com/recaptcha/api.js",
+        "ReCaptchaApiUri": "https://www.google.com/recaptcha/api/",
+        "DetectionThreshold": 5
+      }
+    },
+```
+
